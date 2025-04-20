@@ -18,5 +18,5 @@ This repository contains the backend and frontend for the Tomatto Food Booking s
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/KaeithEmmanuel/Tomatto-FoodBooking.git
+git clone https://github.com/srisai-max/Tomatto-FoodBooking.git
 cd Tomatto-FoodBooking
